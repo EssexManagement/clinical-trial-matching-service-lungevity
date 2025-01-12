@@ -2,7 +2,7 @@
 
 Clinical trial matching service wrapper for [LUNGevity](https://www.lungevity.org/).
 
-For more information on the architecture and data schemas of the clinical trial matching system, please visit the [clinical-trial-matching-app wiki](https://github.com/mcode/clinical-trial-matching-app/wiki).
+For more information on the architecture and data schemas of the clinical trial matching system, please visit the [clinical-trial-matching-app wiki](https://github.com/EssexManagement/clinical-trial-matching-app/wiki).
 
 # Running the Server
 
