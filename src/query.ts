@@ -144,7 +144,7 @@ export class Http400Error extends BasicHttpError {
  * TO-DO
  * Finish making an object for storing the various parameters necessary for the api query
  * based on a patient bundle.
- * Reference https://github.com/mcode/clinical-trial-matching-engine/wiki to see patientBundle Structures
+ * Reference https://github.com/EssexManagement/clinical-trial-matching-engine/wiki to see patientBundle Structures
  */
 export class APIQuery {
   // The following example fields are defined by default within the matching UI
