@@ -5,7 +5,7 @@
 import {
   BasicHttpError, ClinicalTrialsGovService, ResearchStudy,
   SearchSet, ServiceConfiguration
-} from "clinical-trial-matching-service";
+} from "@EssexManagement/clinical-trial-matching-service";
 import { IncomingMessage } from "http";
 import https from "https";
 import { Bundle, Coding, Condition } from "fhir/r4";

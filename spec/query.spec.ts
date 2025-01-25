@@ -7,7 +7,7 @@ import {
   ClinicalTrialsGovService,
   ResearchStudy,
   SearchSet
-} from "clinical-trial-matching-service";
+} from "@EssexManagement/clinical-trial-matching-service";
 import nock from "nock";
 import { Bundle, BundleEntry } from "fhir/r4";
 import { getEmptyStringIfNull, phasePermissibleString } from "../src/constants";
