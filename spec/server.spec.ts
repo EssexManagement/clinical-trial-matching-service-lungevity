@@ -1,6 +1,6 @@
 import startServer from "../src/server";
 import { Server } from "http";
-import ClinicalTrialMatchingService from "clinical-trial-matching-service";
+import ClinicalTrialMatchingService from "@EssexManagement/clinical-trial-matching-service";
 
 describe("startServer()", () => {
   beforeAll(() => {
