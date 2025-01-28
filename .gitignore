@@ -19,3 +19,7 @@ Thumbs.db
 
 # Cache file
 /ctgov-cache.db
+
+# Production files
+iisnode/
+web.config
